@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Uma desenvolvedora em formação. 🎓
+  Uma desenvolvedora back-end em formação. 🎓
 </p>
 
 
