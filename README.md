@@ -14,5 +14,5 @@ Estudante apaixonada por programação, determinada a construir uma carreira só
   <summary></summary> 
  
   - Badge by <a href="https://shields.io/">shields.io</a><br>
-  - Computer vector created by Fullvector
+  - Computer vector created by <a href="https://www.freepik.com/author/fullvector">Fullvector</a><br>
 </details>
