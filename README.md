@@ -1,14 +1,18 @@
-<h1 align='center'>
-  Oi, eu sou a Iasmin!👋
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="340" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+
+<h1>
+💜 Oi, eu sou a Iasmin!
 </h1>
+Estudante apaixonada por programação, determinada a construir uma carreira sólida no mundo da tecnologia, aprendendo e crescendo a cada linha de código.
 
-<p align='center'>
-  Uma desenvolvedora back-end em formação. 🎓
-</p>
+<h3 align="left">Conecte-se comigo! </h3>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/deviasminsilva/)
 
 
-
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/deviasminsilva/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<details align="left">
+  <summary></summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - Computer vector created by Fullvector
+</details>
