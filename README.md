@@ -1,7 +1,7 @@
 <img align="right" height="340" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
 <h1>
-💜 Hello, I'm Iasmin!
+💜 Hello there, I'm Iasmin!
 </h1>
 A programming enthusiast student, determined to build a strong career in the world of technology, learning and growing with every line of code.
 
