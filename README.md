@@ -1,4 +1,4 @@
-<img align="right" height="340" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+<img align="right" height="340" src="https://github.com/devIasminSilva/devIasminSilva/assets/143299286/c67fe686-e1cf-48de-9409-5a59b101b1b6">
 
 <h1>
 💜 Hello there, I'm Iasmin!
