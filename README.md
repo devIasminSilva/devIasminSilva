@@ -8,7 +8,7 @@ A programming enthusiast student, determined to build a strong career in the wor
 <h3 align="left">Connect with me!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8d65c5&color:FFF)](https://www.linkedin.com/in/deviasminsilva/)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-000?style=for-the-badge&logo=dribbble&logoColor=8d65c5&color:FFF)](https://dribbble.com/devIasminSilva/about)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-000?style=for-the-badge&logo=dribbble&logoColor=8d65c5&color:FFF)](https://dribbble.com/devIasminSilva/)
 
 
 <details align="left">
